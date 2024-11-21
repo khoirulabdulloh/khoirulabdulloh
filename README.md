@@ -7,8 +7,11 @@ Embedded System Engineer | Inaskills Electronics Team | <br>Ex-WorldSkills Compe
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br/>
-![AVR](https://img.shields.io/badge/-AVR-B7178C?logo=cube&style=flat) ![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)<br/>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cube](https://img.shields.io/badge/-Cube-03234B?style=for-the-badge&logo=stmicroelectronics)
+![AVR](https://img.shields.io/badge/-AVR-B7178C?style=for-the-badge) 
+![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)<br/>
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Cube](https://img.shields.io/badge/-Cube-03234B?style=for-the-badge&logo=stmicroelectronics)
+![Keil](https://img.shields.io/badge/-arm_keil-394049?style=for-the-badge&logo=armkeil)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khoirulabdulloh&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khoirulabdulloh&theme=react&hide_border=false)<br/>
