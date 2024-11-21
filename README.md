@@ -11,7 +11,11 @@ Embedded System Engineer | Inaskills Electronics Team | <br>Ex-WorldSkills Compe
 ![ARM](https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)<br/><br/>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Cube](https://img.shields.io/badge/-Cube-03234B?style=for-the-badge&logo=stmicroelectronics)
-![Keil](https://img.shields.io/badge/-arm_keil-394049?style=for-the-badge&logo=armkeil)
+![Keil](https://img.shields.io/badge/-arm_keil-394049?style=for-the-badge&logo=armkeil)<br/><br/>
+![Fusion360](https://img.shields.io/badge/-Fusion_360-FF5733?style=for-the-badge&logo=autodesk)
+![Altium](https://img.shields.io/badge/-Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Inventor](https://img.shields.io/badge/-Inventor-FFA500?style=for-the-badge&logo=autodesk)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khoirulabdulloh&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khoirulabdulloh&theme=react&hide_border=false)<br/>
